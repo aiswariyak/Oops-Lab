@@ -22,6 +22,7 @@ class string_methods{
                                count[i]+=1;
                                for(int k=j;k<l-1;k++)
                                str[k]=str[k+1];
+                               j=j-1;
                                l=l-1;
                              }
                       }
