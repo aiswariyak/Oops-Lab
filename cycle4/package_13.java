@@ -29,7 +29,7 @@ public class package_13 implements graphics.square{
             System.out.println("enter the length of square");
             float len=sc.nextFloat();
             package_13 s=new package_13();
-            System.out.println("\narea of circle\n");
+            System.out.println("\narea of square \n");
             System.out.println(s.area(len));
       }
 }
